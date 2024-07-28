@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayfer Şahin</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **Bootstrap, Javascript**
+- 🌱 I’m currently learning **Bootstrap, Javascript, Asp.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
