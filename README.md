@@ -19,22 +19,19 @@ Full-stack developer. Şu an **React**, **Next.js** ve **React Native** üzerine
 ### 🛠 Teknolojiler
 
 **Frontend**
-`React` `Next.js` `React Native`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap" />
 
 **Backend & Diğer**
-`Python` `C#` 
+
+<img src="https://skillicons.dev/icons?i=cs,python" />
+
 
 ---
 
 ### 📌 Güncel Proje
 
-🎂 **Cake Shop App** — React Native ile geliştirilmiş mobil uygulama
+🎂 [**Cake Shop App**](https://github.com/ayfersahinn/cakeShop) — React Native ile geliştirilmiş mobil uygulama
 
 ---
 
-### 📊 İstatistikler
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ayfersahinn&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayfersahinn&layout=compact&theme=default&hide_border=true" />
-</div>
