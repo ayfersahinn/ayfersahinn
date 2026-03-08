@@ -12,7 +12,7 @@
 
 ### Hakkımda
 
-Full-stack developer. Şu an **React**, **Next.js** ve **React Native** üzerine yoğunlaşıyorum.
+Şu an **React**, **Next.js** ve **React Native** üzerine yoğunlaşıyorum.
 
 ---
 
